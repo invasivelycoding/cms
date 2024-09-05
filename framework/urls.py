@@ -59,4 +59,4 @@ urlpatterns = [
 ]
 
 admin.site.index_title = 'Member Dashboard'
-admin.site.site_title = 'amFOSS CMS'
+admin.site.site_title = 'IAT Admin Panel'

@@ -1,4 +1,4 @@
-import CloudFlare
+# import CloudFlare
 from framework import settings
 from framework.platforms.userPlatform import UserPlatform
 from utilities.models import Token
